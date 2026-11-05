@@ -1,3 +1,5 @@
 # Student Manager
 
-?ng d?ng qu?n l? sinh vi�n - DevOps Lab 5
+Ứng dụng quản lý sinh viên — DevOps Lab 5
+
+**Version 1.0.0** — Phát triển bởi Nhóm B
